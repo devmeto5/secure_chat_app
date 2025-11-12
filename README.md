@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple secure chat application built using Flask for the backend and HTML for the frontend. The application allows users to send and receive encrypted messages using AES encryption. The messages are automatically deleted after 3 hours to enhance security
+This is a simple secure chat application built using Flask for the backend and HTML for the frontend. The application allows users to send and receive encrypted messages using AES encryption. The messages are automatically deleted after 3 hours to enhance security.
 
 ## Features
 
