@@ -1,4 +1,4 @@
-# Secure Chat App.
+# Secure Chat App
 
 ## Overview
 
